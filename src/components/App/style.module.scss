@@ -1,0 +1,11 @@
+.App {
+    min-height: 4000px;
+}
+
+.Box {
+    display: grid;
+    place-items: center;
+    height: 200px;
+    color: #fff;
+    background: #000;
+}
